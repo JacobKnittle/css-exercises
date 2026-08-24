@@ -39,6 +39,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 24px;
 }
 
 input {
@@ -55,4 +56,11 @@ li {
 a {
   text-decoration: none;
   color: gray;
+}
+
+.footer {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 16px;
 }
